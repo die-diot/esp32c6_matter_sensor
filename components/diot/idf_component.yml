@@ -1,0 +1,4 @@
+dependencies:
+  espressif/button:
+    version: "^4.1.0"
+    require: public
